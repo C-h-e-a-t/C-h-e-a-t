@@ -1,5 +1,5 @@
-Hello there, I'm Dylan. I am currently in my second year of university and always looking to expand my knowledge 🤓.
-I'm currently working on a webpage where you can chat with a random people 🗣.
+Hello there, I'm Dylan. I am currently in my third year of university and always looking to expand my knowledge 🤓.
+I'm currently working on expanding my knowledge on web development and AI 📖.
 I'm always looking to collaborate on intricate and interesting projects 🤝.
-You can reach me on any of the link on my profile (Instagram, Twitter, Discord) 🤳.
-My strongest language is C++ and I am currently working on algorithms and data structures 💻.
+You can reach me on any of the link on my profile (Instagram, Discord) 🤳.
+My strongest language is Python and I am currently working on algorithms 💻.
